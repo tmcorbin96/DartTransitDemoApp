@@ -11,8 +11,8 @@ Stuck in the cold waiting? Walking too far to find a bus? Paying more when you d
 As of right now, DART Transit only provides the scheduled times for bus arrivals and some possible buses used to get to your location. The app will include previous features such as GPS located bus stops near you on the home page and new features such real time bus tracking so you are not confused about whether the bus was early or running late.  There will also be the added benefit of not taking up too much space on your phone as DART Pass will no longer be separate and will now be located in the DART Transit. We are looking forward to introducing even more new features to make your traveling experience safe and easy. 
 
 
-
-
+##
+##
 ## Application
 This application was generated using JHipster 7.9.3, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.9.3](https://www.jhipster.tech/documentation-archive/v7.9.3).
 
