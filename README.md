@@ -232,7 +232,7 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 
 Stuck in the cold waiting? Walking too far to find a bus? Paying more when you don’t need to?
  
-Welcome to the new and improved DART Transit App.![Uploading Screen Shot 2022-12-16 at 2.46.46 PM (2).png…]()
+Welcome to the new and improved DART Transit App!
 
 
 As of right now, DART Transit only provides the scheduled times for bus arrivals and some possible buses used to get to your location. The app will include previous features such as GPS located bus stops near you on the home page and new features such real time bus tracking so you are not confused about whether the bus was early or running late.  There will also be the added benefit of not taking up too much space on your phone as DART Pass will no longer be separate and will now be located in the DART Transit. We are looking forward to introducing even more new features to make your traveling experience safe and easy. 
